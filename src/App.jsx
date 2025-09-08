@@ -6,7 +6,7 @@ import ProductDetails from './pages/ProductDetails'
 import Cart from './pages/Cart'
 import Address from './pages/Address'
 import Navbar from './components/Navbar'
-import Payment from './pages/payment'
+import Payment from './pages/Payment'
 import Shipping from './pages/Shipping'
 import Footer from './components/Footer'
 
