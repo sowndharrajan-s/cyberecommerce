@@ -1,5 +1,5 @@
 import React from 'react'
-import Step1 from '../components/step1'
+import Step1 from '../components/Step1'
 
 
 const Address = () => {
